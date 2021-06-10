@@ -51,9 +51,33 @@ namespace Stack
                     {
                         Console.WriteLine("adios");
                     }
-                    
-                        
-                    
+                   //else
+                   //{
+                   //    
+                   //}
+                   //
+                   // switch (opcion)
+                   // {
+                   //     
+                   //    case "1":
+                   //        // hacer algo para la opcion "1"
+                   //        Console.WriteLine("1) Decir \"Hola Mundo!\"");
+                   //        break;
+                   //    case "2":
+                   //        // hacer algo para la opcion "2"
+                   //        Console.WriteLine("2) Decir \"Hola [nombre]!\"");
+                   //        break;
+                   //    case "9":
+                   //        // hacer algo para la opcion "9"
+                   //        Console.WriteLine("9) Salir ");
+                   //        break;
+                   //     
+                   //    default:
+                   //        // hacer algo en caso contrario
+                   //        Console.WriteLine("La opcion sleccionada no es correcta");
+                   //        break;
+                   // }   
+                   //
 
                 }
                 
